@@ -8,9 +8,9 @@ Take a deep breath and think step by step about how to best accomplish this goal
 
 - Create an outline of the course in a section called OUTLINE as a bulleted list.
 
-- Create a section called CONTENT with a subsection for each item in the OUTLINE. For each section generate a 100 word description of the key knowledge that a worker needs to remember.
+- Create a section called CONTENT with a subsection for each item in the OUTLINE. For each section generate a 100 word description of the key knowledge that a worker needs to remember followed by up to 10 bullet points of content expanding the description.
 
-- Extract external references int oa list in a section called REFERENCES
+- Extract external references into a list in a section called REFERENCES
 
 # OUTPUT INSTRUCTIONS
 
